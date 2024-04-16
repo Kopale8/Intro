@@ -1,0 +1,26 @@
+#footer{
+    background-color: rgb(12, 12, 77);
+    color: lightblue;
+    
+}
+
+#footer #footer1 .text{
+    margin-left: 40px;
+}
+
+#footer #text{
+    font-size: 18px;
+}
+
+#footer #logo{
+    margin-left: 40px;
+}
+
+#footer #text2{
+    margin-right: 40px;
+}
+
+#footer #text1{
+    font-size: large;
+}
+
